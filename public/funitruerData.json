@@ -1,0 +1,179 @@
+
+[
+  {
+    "id": 1,
+    "name": "Modern Sofa Set",
+    "category": "Living Room",
+    "price": 45000,
+    "material": "Fabric & Wood",
+    "dimensions": "200cm x 90cm x 85cm",
+    "stock": 12,
+    "image": "/images/sofa.jpg",
+    "description": "A modern fabric sofa set with a sturdy wooden frame, perfect for comfort and style."
+  },
+  {
+    "id": 2,
+    "name": "Wooden Dining Table",
+    "category": "Dining Room",
+    "price": 38000,
+    "material": "Solid Teak Wood",
+    "dimensions": "180cm x 90cm x 75cm",
+    "stock": 8,
+    "image": "/images/dining-table.jpg",
+    "description": "Elegant teak wood dining table for 6 people, designed for durability and aesthetics."
+  },
+  {
+    "id": 3,
+    "name": "Office Chair",
+    "category": "Office",
+    "price": 12000,
+    "material": "Mesh & Metal",
+    "dimensions": "65cm x 65cm x 120cm",
+    "stock": 20,
+    "image": "/images/office-chair.jpg",
+    "description": "Ergonomic office chair with breathable mesh and adjustable height."
+  },
+  {
+    "id": 4,
+    "name": "King Size Bed",
+    "category": "Bedroom",
+    "price": 55000,
+    "material": "Engineered Wood",
+    "dimensions": "210cm x 190cm x 110cm",
+    "stock": 6,
+    "image": "/images/king-bed.jpg",
+    "description": "Spacious king-size bed with a durable wooden frame and modern headboard design."
+  },
+  {
+    "id": 5,
+    "name": "Bookshelf",
+    "category": "Study",
+    "price": 15000,
+    "material": "Plywood & Veneer",
+    "dimensions": "120cm x 35cm x 180cm",
+    "stock": 15,
+    "image": "/images/bookshelf.jpg",
+    "description": "A stylish wooden bookshelf with multiple compartments for books and decor items."
+  },
+  {
+    "id": 6,
+    "name": "Coffee Table",
+    "category": "Living Room",
+    "price": 10000,
+    "material": "Glass & Steel",
+    "dimensions": "110cm x 60cm x 45cm",
+    "stock": 18,
+    "image": "/images/coffee-table.jpg",
+    "description": "Contemporary glass-top coffee table with stainless steel frame."
+  },
+  {
+    "id": 7,
+    "name": "Wardrobe",
+    "category": "Bedroom",
+    "price": 40000,
+    "material": "Laminate & MDF",
+    "dimensions": "200cm x 60cm x 220cm",
+    "stock": 7,
+    "image": "/images/wardrobe.jpg",
+    "description": "Spacious wardrobe with sliding doors and ample storage compartments."
+  },
+  {
+    "id": 8,
+    "name": "Study Desk",
+    "category": "Study",
+    "price": 14000,
+    "material": "Engineered Wood",
+    "dimensions": "120cm x 60cm x 75cm",
+    "stock": 10,
+    "image": "/images/study-desk.jpg",
+    "description": "Compact study desk with storage drawers, ideal for students and professionals."
+  },
+  {
+    "id": 9,
+    "name": "TV Stand",
+    "category": "Living Room",
+    "price": 17000,
+    "material": "MDF & Glass",
+    "dimensions": "150cm x 40cm x 55cm",
+    "stock": 14,
+    "image": "/images/tv-stand.jpg",
+    "description": "Modern TV stand with storage cabinets and glass shelves for multimedia setup."
+  },
+  {
+    "id": 10,
+    "name": "Recliner Chair",
+    "category": "Living Room",
+    "price": 25000,
+    "material": "Leather & Steel",
+    "dimensions": "95cm x 100cm x 110cm",
+    "stock": 9,
+    "image": "/images/recliner.jpg",
+    "description": "Comfortable leather recliner chair with adjustable reclining positions."
+  },
+  {
+    "id": 11,
+    "name": "Bar Stool",
+    "category": "Dining Room",
+    "price": 7000,
+    "material": "Metal & Faux Leather",
+    "dimensions": "45cm x 45cm x 100cm",
+    "stock": 25,
+    "image": "/images/bar-stool.jpg",
+    "description": "Stylish bar stool with cushioned seat and footrest support."
+  },
+  {
+    "id": 12,
+    "name": "Side Table",
+    "category": "Living Room",
+    "price": 8000,
+    "material": "Wood & Veneer",
+    "dimensions": "50cm x 50cm x 55cm",
+    "stock": 22,
+    "image": "/images/side-table.jpg",
+    "description": "Elegant wooden side table with minimalistic design, perfect for any corner."
+  },
+  {
+    "id": 13,
+    "name": "Dressing Table",
+    "category": "Bedroom",
+    "price": 20000,
+    "material": "MDF & Mirror",
+    "dimensions": "120cm x 45cm x 160cm",
+    "stock": 11,
+    "image": "/images/dressing-table.jpg",
+    "description": "Modern dressing table with mirror, drawers, and elegant finish."
+  },
+  {
+    "id": 14,
+    "name": "Shoe Rack",
+    "category": "Storage",
+    "price": 9000,
+    "material": "Engineered Wood",
+    "dimensions": "100cm x 35cm x 120cm",
+    "stock": 16,
+    "image": "/images/shoe-rack.jpg",
+    "description": "Compact shoe rack with multiple shelves for organized storage."
+  },
+  {
+    "id": 15,
+    "name": "Outdoor Patio Set",
+    "category": "Outdoor",
+    "price": 30000,
+    "material": "Rattan & Glass",
+    "dimensions": "Table: 120cm x 70cm, Chair: 60cm x 60cm x 85cm",
+    "stock": 5,
+    "image": "/images/patio-set.jpg",
+    "description": "Durable rattan outdoor patio set with glass-top table and cushioned chairs."
+  },
+  {
+    "id": 16,
+    "name": "Baby Crib",
+    "category": "Kids",
+    "price": 18000,
+    "material": "Solid Wood",
+    "dimensions": "130cm x 70cm x 100cm",
+    "stock": 13,
+    "image": "/images/baby-crib.jpg",
+    "description": "Safe and comfortable wooden baby crib with protective railings."
+  }
+]
